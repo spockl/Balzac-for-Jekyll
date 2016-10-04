@@ -1,6 +1,6 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            My DSI Journey
+tagline:          Chaos....
+description:      A blog for my Data Science class
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
@@ -8,13 +8,13 @@ owner:
   name:           Cole Townsend
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  email:          SPocklington82@gmail.com
+  twitter:        quixoticflight
+  github:         spcokl
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Edison, NJ"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,7 +31,7 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/spockl
+    url: https://spockl.github.io
     external: true
   - title: Sara's Data Journey
     url:
@@ -40,7 +40,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
