@@ -5,9 +5,9 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Sara Pocklington
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:           
   email:          SPocklington82@gmail.com
   twitter:        quixoticflight
   github:         spcokl
@@ -31,7 +31,7 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://spockl.github.io
+    url: https://github.com/spockl
     external: true
   - title: Sara's Data Journey
     url:
